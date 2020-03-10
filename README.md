@@ -6,6 +6,11 @@ A program which counts the number of black and red circles in .png file.
 
 The input .png file should contain only black/red circles and rectangles separated with green background.
 
+### Before using
+```
+$ pip install -r requirements.txt
+```
+
 ### Usage
 ```
 $ python3 main.py 'your_filepath'
